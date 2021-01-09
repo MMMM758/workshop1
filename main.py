@@ -1,3 +1,4 @@
 print("hello eorld!!! !")
 print("I am Mew :D")
-print("TI love You Too")
+print("My last is Atitaya")
+print("My nickname Mew")
